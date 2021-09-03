@@ -4,7 +4,7 @@
       <vuescroll>
         <img src="../assets/logo.png" width="250" /><br />
         A club of 101 unique Nerd Faces<br />
-        Imagined by an AI for your next theme night.<br />
+        for your next theme night.<br />
         --<br />
         <span class="title-drop">Drop party</span><br />06th September at 06:00
         CEST<br />

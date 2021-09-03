@@ -122,8 +122,8 @@ export default {
     refreshImages() {
       const app = this;
       app.indexes = [];
-      while (app.indexes.length < 80) {
-        let index = Math.floor(Math.random() * 80 + 1);
+      while (app.indexes.length < 90) {
+        let index = Math.floor(Math.random() * 100 + 1);
         let padded = app.pad(index, 3);
         if (app.indexes.indexOf(padded) === -1) {
           app.indexes.push(padded);

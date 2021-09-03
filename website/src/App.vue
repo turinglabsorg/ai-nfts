@@ -12,7 +12,6 @@ html {
   min-height: 100vh;
 }
 .home-text {
-  padding-left: 60px;
   width:50%;
   float:left;
   text-align:center;

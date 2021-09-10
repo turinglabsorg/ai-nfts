@@ -6,9 +6,8 @@
         A club of 101 unique Nerd Faces<br />
         for your next theme night.<br />
         --<br />
-        <span class="title-drop">Drop party</span><br />06th September at 06:00
-        CEST<br />
-        <a href="https://twitter.com/Nerd_Face_NFT/"
+        <span class="title-drop">Collection<br>on OpenSea!</span><br />
+        <a href="https://opensea.io/collection/nerdfacesclub"
           ><b-button type="is-danger">JOIN THE CLUB</b-button></a
         >
       </vuescroll>
